@@ -1,0 +1,24 @@
+[
+    {
+        "name": "anshul baghel",
+        "roll": "10",
+        "course": "mca"
+    },
+    {
+        "name": "Deepak",
+        "roll": "21",
+        "course": "MCA"
+    },
+    {
+        "name": "Raj",
+        "roll": "19",
+        "course": "MCA",
+        "marks": 89
+    },
+    {
+        "name": "Anjali Kumari",
+        "roll": "31",
+        "course": "10th",
+        "marks": 70
+    }
+]
